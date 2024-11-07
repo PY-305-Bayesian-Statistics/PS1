@@ -1,0 +1,1 @@
+print("Hello, this is from test2.py")
